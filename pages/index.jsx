@@ -18,8 +18,8 @@ export default function Home() {
           <a>Video Player</a>
         </Link>
 
-        <Link href="/preview-pdf">
-          <a>Preview PDF</a>
+        <Link href="/handling-pdf">
+          <a>Handling PDF</a>
         </Link>
       </Stack>
     </Container>

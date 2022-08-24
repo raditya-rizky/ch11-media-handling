@@ -1,7 +1,7 @@
 import Head from "next/head";
 import { Container, Stack, Form, Button } from "react-bootstrap";
 
-export default function Home() {
+export default function UploadImage() {
   return (
     <Container className="py-3">
       <Head>
